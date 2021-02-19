@@ -1,0 +1,41 @@
+@charset "UTF-8";
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+body {
+    font-family: 'Libre Baskerville', serif;
+    background-color: #F08788;
+    background-size: cover;
+}
+header {
+    background-image: url("../images/sky.jpg");
+    padding-bottom: 68px;
+}
+
+.my-class {
+    color: black;
+    background-color: #FFE4E1;
+  
+}
+.my-container {
+    background-color: cadetblue;
+    border: 3px inset #000000;
+    height: 206px;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+	
+.mountain {
+    width: 162px;
+    padding-top: 8px;
+    height: 163px;
+    float: left;
+}
+
+#footer {
+    font-size: 1.0rem;
+    background-color: #FFB6C1;
+}
